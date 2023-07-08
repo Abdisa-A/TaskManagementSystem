@@ -7,3 +7,27 @@
 h1 {
     color: red;
 }
+
+.input-task {
+    padding: 8px;
+    border-radius: 20px;
+    border: 2px solid #333;
+    /* display: none; */
+}
+
+
+.input-div {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 5px;
+    display: none;
+}
+.del-icon {
+    font-size: 25px;
+    color: rgb(245, 0, 0)
+}
+.add-icon {
+    font-size: 25px;
+    color: #38ba6c;
+}
