@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+
+.todo-page {
+    height: 100vh;
+    background-color: #242433;
+}
+
 h1 {
     color: red;
 }
@@ -21,7 +27,6 @@ h1 {
     justify-content: start;
     align-items: center;
     gap: 5px;
-    display: none;
 }
 .del-icon {
     font-size: 25px;
